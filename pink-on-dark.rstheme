@@ -53,7 +53,7 @@
 }
 
 .ace_fold {
-  background-color: #FFE119;
+  background-color: #FEB3B6;
   border-color: #FCFCFC;
 }
 
@@ -63,7 +63,7 @@
 
 
 .ace_keyword {
-  color: #FFE119;
+  color: #FEB3B6;
 
 }
 
@@ -83,7 +83,7 @@
 }
 
 .ace_support.ace_function {
-  color: #FFE119;
+  color: #FEB3B6;
 
 }
 
@@ -119,13 +119,13 @@
 
 .ace_markup.ace_heading {
   text-decoration: underline;
-  color: #FFE119;
+  color: #FEB3B6;
 
 }
 
 .ace_heading {
   text-decoration: underline;
-  color: #FFE119;
+  color: #FEB3B6;
 
 }
 .nocolor.ace_editor .ace_line span {
